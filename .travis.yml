@@ -32,6 +32,6 @@ deploy:
   region: "ap-northeast-2"
   app: "restaurant"
   env: "Restaurant-java8"
-  bucket_name: "elasticbeanstalk-ap-northeast-2-893382876075"  # S3 bucket name
+  bucket_name: "elasticbeanstalk-ap-northeast-2-485379349663"  # S3 bucket name
   on:
     branch: master

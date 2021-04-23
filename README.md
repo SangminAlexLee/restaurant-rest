@@ -1,6 +1,6 @@
 # RESTAURANT DOCKER EXAMPLE
 
-Edited on 23rd Apr for CI testing. 
+Edited on 23rd Apr for CI testing.
 
 ## For build
 `docker build -t existmaster/restaurant-rest .`
