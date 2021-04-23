@@ -1,4 +1,4 @@
-# RESTAURANT DOCKER EXAMPLE
+# RESTAURANT DOCKER EXAMPLE [![Build Status](https://travis-ci.com/SangminAlexLee/restaurant-rest.svg?branch=master)](https://travis-ci.com/SangminAlexLee/restaurant-rest)
 
 Edited on 23rd Apr for Beanstalk testing
 
